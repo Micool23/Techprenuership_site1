@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    line-height: normal;
+}
+
+a {
+    color: var(--main-text-cl);
+    text-align: center;
+}
+
